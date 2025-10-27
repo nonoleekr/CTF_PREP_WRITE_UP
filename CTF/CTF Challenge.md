@@ -42,13 +42,8 @@ They look something like this:
 
 ---
 
-## ✅ Wrap-Up
-
-You’ve completed another chapter in your CTF journey!
-
-Now, here’s a challenge for you:
-
-> **How many points were awarded for the CTFPrep’s "Why CTF?" challenge?**  
+# Question
+How many points were awarded for the CTFPrep’s "Why CTF?" challenge?  
 > Wrap your answer in the CTFPrep flag format.  
 > *(Example: `CTFPrep{900}`)*
 
