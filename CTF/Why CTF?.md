@@ -44,7 +44,3 @@ CTFPrep{RM22300.00}
 ### 🧠 Notes
 This challenge tests your ability to **source open information (OSINT)** from verified social media posts.  
 Always validate your findings from **official institutional sources**.
-
-```
-
----
